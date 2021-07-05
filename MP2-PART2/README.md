@@ -1,4 +1,4 @@
-# Client-Server communication system in Linux (Server part)
+# Client-Server communication system in Linux (Server)
 
 ### Description
 Project delopped in c, that simulates the behaviour of client-server system and all the communication involved. The program was intended to test the knowledge on inter-process communcation 
