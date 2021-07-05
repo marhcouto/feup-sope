@@ -3,6 +3,7 @@
 ### Description
 Project delopped in c, that simulates the behaviour of client-server system and all the communication involved. The program was intended to test the knowledge on inter-process communcation 
 utilizing fifos and pipes, communication between threads, control of shared memory access and concurrent programming, with resource to mutexes, semaphores etc.
+This part of the practical work focuses on the program responsible for the client.
 
 ### Results
 The project was a success and worked as expected.
