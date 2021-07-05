@@ -1,0 +1,2 @@
+# FEUP-SOPE
+:mortar_board: SOPE ->MIEIC/L.EIC - FEUP, 2020-2021
