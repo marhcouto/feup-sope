@@ -15,6 +15,6 @@ The project was a success and worked as expected.
 Name | UP | Git Username |
 -----|----|--------------|
 Marcelo Couto | 201906086 | [marhcouto](https://github.com/marhcouto)
-Sofia Germer | 20190746 | [sofiagermer](https://github.com/sofiagermer)
+Sofia Germer | 201907461 | [sofiagermer](https://github.com/sofiagermer)
 Miguel Lopes | 201704590 | [miguelazevedolopes](https://github.com/miguelazevedolopes)
 Pedro Silva | 201907523 | [PedroJSilva2001](https://github.com/PedroJSilva2001)
